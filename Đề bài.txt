@@ -1,0 +1,17 @@
+Yêu cầu của đề thi:
+Tạo 01 infographic (bản đồ họa thông tin) dạng một trang duy nhất, nội dung hướng dẫn/tóm tắt Luật Bảo vệ dữ liệu cá nhân 2025 ( Luật số: 91/2025/QH15)
+Thông tin văn bản luật: (1)Web: https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Luat-Bao-ve-du-lieu-ca-nhan-2025-so-91-2025-QH15-625628.aspx
+(2)PDF: https://vanban.chinhphu.vn/?pageid=27160&docid=214590&classid=1&typegroupid=3 
+Infographic truyền đạt các thông tin chính: khái niệm, quy định nổi bật, điểm mới hoặc lưu ý quan trọng, quyền/nghĩa vụ liên quan, ví dụ minh họa dễ nhớ.
+Tác phẩm nên rõ ràng, ngắn gọn, dễ hiểu cho người dân tất cả lứa tuổi, đặc biệt đối tượng tiếp xúc pháp luật hạn chế.
+Sản phẩm là hoàn toàn sáng tạo mới với AI thông qua AI API được cung cấp, đáp ứng đủ yêu cầu của đề, phù hợp quy định pháp lý và giáo dục, không cover hay sáng tác từ một Truyện có sẵn
+Ngôn ngữ: tiếng Việt
+ 
+Đầu ra - Quy định định dạng:
+Kích thước infographic: 2m (ngang) x 1m (cao) (kích thước khi in)  — Kích thước chuẩn in lớn: 7874 x 3937 pixel (độ phân giải tối thiểu 100dpi; khuyến nghị 150–200dpi).
+Định dạng tệp xuất bản: PNG/JPG, đủ chất lượng in chuẩn treo ngoài trời theo kích thước ở trên.
+ 
+Bối cảnh:
+Infographic đạt chuẩn sẽ in và dán tại trụ sở xã/phường/đặc khu trên toàn quốc, đặc biệt các khu vực miền núi, vùng sâu xa, góp phần phổ biến luật và tăng hiệu quả truyền thông chính sách pháp luật tới người dân.
+Nội dung:
+  Các văn bản luật có nhiều quy định dài, phức tạp, dễ gây khó cho việc tiếp cận. Để đáp ứng yêu cầu phổ biến chủ trương chính sách mới, đề thi yêu cầu nhóm dự thi ứng dụng AI/LLM và công cụ theo quy định để tóm tắt, trực quan hóa toàn bộ nội dung cốt lõi vào 01 infographic “cỡ lớn”, hỗ trợ chính quyền địa phương dán tại trụ sở xã, phường, thị trấn trên toàn quốc, giúp người dân dễ dàng nắm bắt những điểm then chốt về luật mới thay đổi.
