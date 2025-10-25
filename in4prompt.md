@@ -1,117 +1,105 @@
-### **Tiêu đề**
+### **Prompt Tổng Thể cho AI Tạo Infographic**
 
-*   **Nội dung:**
-    > **LUẬT BẢO VỆ DỮ LIỆU CÁ NHÂN 2025**
-    > Mọi điều bạn cần biết để bảo vệ chính mình trong thế giới số.
+**Chủ đề:** Infographic tóm tắt Luật Bảo vệ dữ liệu cá nhân 2025 của Việt Nam.
 
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > A sleek, futuristic digital shield with a glowing fingerprint icon in the center, set against a clean, minimalist dark blue background with abstract data lines. The overall style is modern, professional, and conveys security. Keywords: data protection, cybersecurity, futuristic law, Vietnam. Style: infographic header, vector art, clean lines, vibrant blue and white accents.
-
----
-
-### **Icon (Trung tâm)**
-
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > A stylized, abstract representation of a person made of glowing digital data points, holding a golden key. The figure is protected by a transparent, shimmering sphere. This central icon should be symbolic and elegant. Keywords: digital identity, personal data, protection, empowerment, key to privacy. Style: minimalist, symbolic, 3D render, ethereal glow.
-
----
-
-### **Phần 1: Dữ liệu cá nhân là gì?**
-
-#### **Hộp 1.1: Dữ liệu CƠ BẢN**
-*   **Nội dung:**
-    > **Dữ liệu CƠ BẢN**
-    > Thông tin nhận dạng phổ biến:
-    > *   Họ tên, ngày sinh, giới tính
-    > *   Số điện thoại, email
-    > *   Số CCCD/CMND/Hộ chiếu
-    > *   Địa chỉ liên lạc
-
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > A simple, clean icon of a modern ID card or a user profile avatar. The design uses a light and friendly color palette (e.g., light blue, green). Style: flat design icon, simple vector illustration, easily understandable.
-
-#### **Hộp 1.2: Dữ liệu NHẠY CẢM**
-*   **Nội dung:**
-    > **Dữ liệu NHẠY CẢM**
-    > Thông tin riêng tư, cần bảo vệ đặc biệt:
-    > *   Sức khỏe, di truyền, sinh trắc học (vân tay)
-    > *   Tài chính, ngân hàng
-    > *   Quan điểm chính trị, tôn giáo
-    > *   Vị trí, lịch sử phạm tội
-
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > An icon of a human brain silhouette with a distinct padlock symbol over it. The color palette is more serious (e.g., deep purple, dark red) to signify sensitivity and importance. Style: flat design icon, symbolic vector, clear and impactful.
+**Yêu cầu chung:**
+*   **Kích thước:** 3937 x 7874 pixels (tỷ lệ 1:2, khổ dọc).
+*   **Phong cách:** Hiện đại, tối giản (minimalist), sạch sẽ, chuyên nghiệp. Sử dụng icon và biểu đồ phẳng (flat design).
+*   **Bảng màu chủ đạo:**
+    *   **Nền:** Trắng (`#FFFFFF`) hoặc xám rất nhạt (`#F5F7FA`).
+    *   **Màu chính:** Xanh dương đậm (`#0A2A4E`) - cho tiêu đề và các đề mục chính.
+    *   **Màu nhấn:** Xanh lam sáng (`#007BFF`), Xanh ngọc (`#17A2B8`), Vàng (`#FFC107`).
+    *   **Màu chữ:** Đen (`#333333`) cho nội dung, trắng cho các vùng nền tối.
+*   **Font chữ:** Sử dụng font sans-serif hiện đại, dễ đọc (ví dụ: Montserrat, Lato, Be Vietnam Pro). Tiêu đề in đậm, lớn. Nội dung chữ vừa phải.
+*   **Bố cục:** Theo cấu trúc trong `context.png`, chia thành các khối rõ ràng, có khoảng trắng hợp lý giữa các phần. Ngôn ngữ trên ảnh: **Tiếng Việt**.
 
 ---
 
-### **Phần 2: 8 Quyền Vàng của bạn**
+### **Cấu trúc và Nội dung chi tiết từng phần**
 
+**1. Phần Tiêu đề (Header)**
+*   **Kích thước:** `3500 x 600 px`.
 *   **Nội dung:**
-    > **8 QUYỀN VÀNG CỦA BẠN**
-    > 1.  **Được biết:** Ai, xử lý dữ liệu gì, tại sao.
-    > 2.  **Đồng ý:** Cho phép hoặc từ chối.
-    > 3.  **Rút lại đồng ý:** Thay đổi quyết định bất cứ lúc nào.
-    > 4.  **Xem & Chỉnh sửa:** Truy cập và cập nhật thông tin của bạn.
-    > 5.  **Yêu cầu Xóa:** Quyền được lãng quên.
-    > 6.  **Hạn chế xử lý:** Tạm dừng việc sử dụng dữ liệu.
-    > 7.  **Khiếu nại & Khởi kiện:** Nếu quyền lợi bị vi phạm.
-    > 8.  **Yêu cầu Bồi thường:** Khi có thiệt hại xảy ra.
+    *   Dòng tiêu đề chính (lớn, in đậm): **LUẬT BẢO VỆ DỮ LIỆU CÁ NHÂN 2025**
+    *   Dòng phụ (nhỏ hơn): **NHỮNG ĐIỀU BẠN CẦN BIẾT ĐỂ BẢO VỆ QUYỀN RIÊNG TƯ**
+*   **Hình ảnh:** Nền xanh dương đậm (`#0A2A4E`), chữ trắng. Có thể thêm một vài họa tiết chấm bi hoặc đường kẻ mờ để tạo chiều sâu.
 
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > A human hand holding up a glowing golden key. Eight rays of light emanate from the key, each with a small, simple icon representing a right (e.g., an eye for 'biết', a checkmark for 'đồng ý', a trash bin for 'xóa'). The image feels empowering and positive. Keywords: rights, empowerment, control, data privacy. Style: symbolic, uplifting, vector illustration.
+**2. Khối 1: Định nghĩa & Biểu tượng (Hàng ngang 3 ô)**
+*   **Kích thước chung của hàng:** `3500 x 1200 px`.
 
----
+    *   **Ô 1: Dữ liệu cá nhân CƠ BẢN**
+        *   **Kích thước:** `1100 x 1100 px`.
+        *   **Nội dung:**
+            *   **Tiêu đề:** Phần 1: Dữ liệu cá nhân là gì?
+            *   **Nội dung chính:** **Dữ liệu CƠ BẢN:** Là thông tin định danh phổ biến.
+            *   **Ví dụ (dạng list + icon):** Họ tên, Ngày sinh, SĐT, Email, Số CCCD.
+        *   **Hình ảnh:** Một icon hình người (user profile) đơn giản. Xung quanh là các icon nhỏ tượng trưng cho ví dụ: điện thoại, email, thẻ căn cước.
 
-### **Phần 3: 4 Nghĩa vụ cần nhớ**
+    *   **Ô 2: Biểu tượng chính**
+        *   **Kích thước:** `1100 x 1100 px`.
+        *   **Hình ảnh:** Một biểu tượng **chiếc khiên** lớn, hiện đại, màu xanh lam sáng (`#007BFF`). Bên trong chiếc khiên là **biểu tượng ổ khóa** phát sáng nhẹ. Hình ảnh phải thể hiện sự an toàn, bảo mật tuyệt đối.
 
+    *   **Ô 3: Dữ liệu cá nhân NHẠY CẢM**
+        *   **Kích thước:** `1100 x 1100 px`.
+        *   **Nội dung:**
+            *   **Tiêu đề:** (Không cần lặp lại tiêu đề Phần 1)
+            *   **Nội dung chính:** **Dữ liệu NHẠY CẢM:** Là thông tin riêng tư, cần bảo vệ nghiêm ngặt.
+            *   **Ví dụ (dạng list + icon):** Sức khỏe (icon trái tim/ bệnh án), Tài chính (icon tiền tệ), Sinh trắc học (icon vân tay), Quan điểm chính trị.
+        *   **Hình ảnh:** Một icon hình "dấu vân tay" hoặc "chuỗi DNA". Xung quanh là các icon nhỏ: trái tim, biểu đồ tài chính, lá phiếu.
+
+**3. Khối 2: Quyền & Nghĩa vụ (Hàng ngang 2 ô)**
+*   **Kích thước chung của hàng:** `3500 x 1600 px`.
+
+    *   **Ô 1: 8 Quyền Vàng của bạn**
+        *   **Kích thước:** `1700 x 1500 px`.
+        *   **Nội dung:**
+            *   **Tiêu đề:** Phần 2: 8 Quyền Vàng của bạn
+            *   **Nội dung (rút gọn, dùng từ khóa):** Được biết, Đồng ý (hoặc rút lại), Xem & Sửa, Yêu cầu Xóa, Khiếu nại, Yêu cầu Bồi thường, Tự bảo vệ.
+        *   **Hình ảnh:** Hình ảnh một người đang đứng giơ cao một **chiếc chìa khóa vàng** (`#FFC107`) đầy quyền năng. Xung quanh là 8 icon nhỏ, phẳng, minh họa cho các quyền (con mắt, dấu tick, bút chì, thùng rác, cái búa thẩm phán...).
+
+    *   **Ô 2: 4 Nghĩa vụ cần nhớ**
+        *   **Kích thước:** `1700 x 1500 px`.
+        *   **Nội dung:**
+            *   **Tiêu đề:** Phần 3: 4 Nghĩa vụ cần nhớ
+            *   **Nội dung (rút gọn):** 1. Tự bảo vệ dữ liệu. 2. Tôn trọng dữ liệu người khác. 3. Cung cấp thông tin chính xác. 4. Tuân thủ pháp luật.
+        *   **Hình ảnh:** Bốn icon được xếp thẳng hàng hoặc dạng lưới.
+            1.  Icon người và chiếc khiên.
+            2.  Icon hai người bắt tay.
+            3.  Icon tài liệu có dấu tick.
+            4.  Icon cán cân công lý.
+
+**4. Khối 3: Các quy định nổi bật (Ô ngang dài)**
+*   **Kích thước:** `3500 x 1600 px`.
 *   **Nội dung:**
-    > **4 NGHĨA VỤ CẦN NHỚ**
-    > 1.  **Tự bảo vệ:** Dữ liệu của bạn, trách nhiệm của bạn.
-    > 2.  **Tôn trọng người khác:** Bảo vệ dữ liệu của mọi người.
-    > 3.  **Cung cấp chính xác:** Khi pháp luật yêu cầu hoặc đã đồng ý.
-    > 4.  **Tuân thủ pháp luật:** Chấp hành quy định chung.
+    *   **Tiêu đề:** Phần 4: Các quy định nổi bật
+    *   **Nội dung (chia 4 cột nhỏ hoặc 4 dòng có icon):**
+        *   **IM LẶNG KHÔNG LÀ ĐỒNG Ý:** Cần có sự cho phép rõ ràng, tự nguyện. (Icon: bong bóng chat bị gạch chéo).
+        *   **THÔNG BÁO TRONG 72 GIỜ:** Tổ chức phải báo cáo khi có sự cố rò rỉ dữ liệu. (Icon: đồng hồ đếm ngược hiển thị 72h).
+        *   **XỬ LÝ KHÔNG CẦN ĐỒNG Ý:** Trong các trường hợp khẩn cấp (tính mạng, an ninh quốc gia). (Icon: xe cứu thương hoặc cờ tổ quốc).
+        *   **QUẢNG CÁO PHẢI CÓ SỰ ĐỒNG Ý:** Phải cho phép người dùng từ chối. (Icon: Megaphone có nút "block" hoặc "từ chối").
+*   **Hình ảnh:** Sử dụng các icon tương ứng như mô tả để minh họa cho từng điểm, tạo sự trực quan.
 
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > Four interconnected shields forming a protective circle. Each shield has a simple icon inside: a person guarding themselves (Tự bảo vệ), two figures shaking hands (Tôn trọng), a checkmark (Chính xác), and a scale of justice (Tuân thủ). Style: cohesive, strong, infographic style, vector art, unified color scheme.
+**5. Khối 4: Điểm mới & Ví dụ (Ô ngang dài)**
+*   **Kích thước:** `3500 x 1800 px`.
+*   **Nội dung:** Chia ô này làm 2 phần dọc.
 
----
+    *   **Bên trái - Phần 5: Điểm mới cần lưu ý**
+        *   **Nội dung:**
+            *   **Hiệu lực:** 01/01/2026 (Icon: Lịch).
+            *   **Chế tài rất nặng:** Phạt tới 5% tổng doanh thu. (Icon: túi tiền lớn có dấu %).
+            *   **Bắt buộc Đánh giá tác động:** Trước khi xử lý/chuyển dữ liệu. (Icon: tài liệu và kính lúp).
+            *   **Ưu đãi doanh nghiệp nhỏ:** Miễn trừ một số quy định trong 5 năm đầu. (Icon: mầm cây đang lớn).
 
-### **Phần 4: Các quy định nổi bật**
+    *   **Bên phải - Phần 6: Ví dụ thực tế**
+        *   **Nội dung:**
+            *   **Ví dụ 1:** App bán hàng phải dùng checkbox "Đồng ý nhận quảng cáo" và không được tick sẵn. (Icon: màn hình điện thoại có checkbox chưa được chọn).
+            *   **Ví dụ 2:** Khi bạn yêu cầu xóa tài khoản, công ty phải xóa hoàn toàn dữ liệu của bạn. (Icon: một hồ sơ người dùng bị kéo vào biểu tượng thùng rác).
 
+*   **Hình ảnh:** Mỗi phần có các icon minh họa riêng như đã mô tả, ngăn cách bằng một đường kẻ mờ ở giữa.
+
+**6. Phần Chân trang (Footer)**
+*   **Kích thước:** `3500 x 300 px`.
 *   **Nội dung:**
-    > **CÁC QUY ĐỊNH NỔI BẬT**
-    > *   **"Im lặng không phải là đồng ý":** Sự cho phép phải được thể hiện rõ ràng, tự nguyện.
-    > *   **Thông báo trong 72 giờ:** Tổ chức phải báo cáo khi có sự cố rò rỉ dữ liệu.
-    > *   **Xử lý không cần đồng ý:** Trong trường hợp khẩn cấp (bảo vệ tính mạng, an ninh quốc gia).
-    > *   **Quảng cáo & Marketing:** Phải được bạn đồng ý và cho phép từ chối bất cứ lúc nào.
-
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > A dynamic composition of four bold icons: a speech bubble with a cross through it (im lặng), a calendar page with "72h" circled and an alarm icon, a red cross/medical symbol inside a shield (khẩn cấp), and a megaphone with an "unsubscribe" button. Style: bold icons, dynamic layout, attention-grabbing, vector illustration.
-
----
-
-### **Phần 5 & 6: Điểm mới & Ví dụ**
-
-*   **Nội dung:**
-    > **ĐIỂM MỚI CẦN LƯU Ý**
-    > *   **Hiệu lực:** 01/01/2026.
-    > *   **Chế tài nặng:** Phạt tới 5% tổng doanh thu hoặc 3 tỷ đồng.
-    > *   **Bắt buộc đánh giá tác động:** Doanh nghiệp phải phân tích rủi ro trước khi xử lý.
-    >
-    > **VÍ DỤ THỰC TẾ**
-    > *   **Từ chối quảng cáo:** Bạn có quyền yêu cầu một app mua sắm ngừng gửi email/tin nhắn marketing.
-    > *   **Rút lại đồng ý:** Bạn có thể yêu cầu một mạng xã hội xóa hình ảnh của bạn dù trước đó đã đồng ý đăng.
-
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > A split-panel image. The top panel shows icons for the new points: a calendar pointing to "2026", a large exclamation mark made of currency symbols, and a clipboard with a checklist. The bottom panel illustrates the examples: a user tapping a button labeled "Unsubscribe" on a smartphone, and a photo being dragged into a trash bin on a social media interface. Style: relatable scenes, simple illustration, clear before-and-after, vector art.
-
----
-
-### **Chân trang (Footer)**
-
-*   **Nội dung:**
-    > Nguồn: Luật Bảo vệ dữ liệu cá nhân Việt Nam 2025.
-    > Hãy là người dùng thông thái, bảo vệ dữ liệu của chính mình!
-
-*   **Mô tả hình ảnh (Prompt for GenAI):**
-    > A simple, clean footer bar. On the left, include a small, subtle icon of a law book. On the right, a simple logo or a placeholder for a QR code. The design should be minimalist and not distract from the main content.
+    *   "Nguồn: Tóm tắt từ Luật Bảo vệ Dữ liệu Cá nhân Việt Nam 2025"
+    *   Có thể thêm logo của tổ chức (nếu có).
+*   **Hình ảnh:** Nền xanh dương đậm (`#0A2A4E`) giống header, chữ trắng. Đơn giản và gọn gàng.
